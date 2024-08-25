@@ -1,6 +1,8 @@
 ## Hi there, I'm Ofek 👋
 🖥️ I'm a 3rd Year B.Sc Computer Science and Mathematics with a specialization in Cyber Security at Ariel University
 
+### my skills: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=25&color=330033&vCenter=true&width=700&height=20&lines=python;C;Cpp;java)](https://git.io/typing-svg)
 
 ### GitHub Stats
 
