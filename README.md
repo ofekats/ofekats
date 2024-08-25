@@ -6,11 +6,11 @@
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ofekats&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ofekats&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true)
 
-![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=ofekats&hide_title=true&hide_border=true)
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=ofekats&hide_title=true&hide_border=true)
 
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ofekats&show_icons=true&locale=en&layout=compact&hide_border=true)
 
 <!--
 **ofekats/ofekats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
