@@ -37,12 +37,14 @@
         </td>
     </tr>
 </table>
+  </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofekats&hide_title=true&hide_border=true&align=center" alt="Contribution Graph">
 </div>
 
 
-</br>
 
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=ofekats&hide_title=true&hide_border=true)
+
+
 
 
 
