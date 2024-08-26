@@ -1,4 +1,4 @@
-## Hi there, I'm Ofek 👋
+## Hi there, I'm Ofek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20" />
 🖥️ I'm a 3rd Year B.Sc Computer Science and Mathematics with a specialization in Cyber Security at Ariel University
 
 ### my skills: 
