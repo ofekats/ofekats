@@ -14,11 +14,33 @@
 
 ### GitHub Stats
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofekats&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Most Used Languages" style="width: 30%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofekats&show_icons=true&count_private=true&hide=prs&hide_border=true&align=right&hide_title=true" alt="GitHub Stats" style="width: 49%;">
-  
+<div align="center">
+<table>
+    <tr>
+        <!-- Github status -->
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ofekats&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="ofekats's Github stats" />
+            </a>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ofekats&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="ofekats's Github stats" />
+            </a>
+        </td>
+        <!-- Github use of programming language -->
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ofekats&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="ofekats's Language stats" />
+            </a>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ofekats&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="ofekats's Language stats" />
+            </a>
+        </td>
+    </tr>
+</table>
 </div>
+
+
+</br>
 
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=ofekats&hide_title=true&hide_border=true)
 
