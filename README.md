@@ -19,15 +19,11 @@
     <tr>
       <!-- Github status -->
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-          <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ofekats&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&&theme=buefy" alt="ofekats's Github stats" />
-        </a>
+        <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ofekats&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&&theme=buefy" alt="ofekats's Github stats" />
       </td>
       <!-- Github use of programming language -->
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
           <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ofekats&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=buefy" alt="ofekats's Language stats" />
-        </a>
       </td>
     </tr>
     <tr>
