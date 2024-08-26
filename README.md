@@ -28,10 +28,10 @@
     </tr>
     <tr>
       <td style="background-color: white;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofekats&hide_title=true&hide_border=true&theme=buefy" alt="Contribution Graph">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofekats&hide_title=true&hide_border=true&theme=buefy" alt="Contribution Graph" style="width: 100%; height: 100%; object-fit: cover;">
       </td>
       <td style="background-color: white;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekats&theme=buefy&hide_border=true&hide_title=true" width="520" alt="ofekats"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekats&theme=buefy&hide_border=true&hide_title=true" alt="ofekats" style="width: 100%; height: 100%; object-fit: cover;"/>
       </td>
     </tr>
   </table>
