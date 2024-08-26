@@ -6,11 +6,15 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ofekats&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true)
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofekats&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Most Used Languages" style="width: 30%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ofekats&show_icons=true&count_private=true&hide=prs&hide_border=true&align=right&hide_title=true" alt="GitHub Stats" style="width: 49%;">
+  
+</div>
 
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=ofekats&hide_title=true&hide_border=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ofekats&show_icons=true&locale=en&layout=compact&hide_border=true)
+
 
 <!--
 **ofekats/ofekats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
