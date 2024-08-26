@@ -2,7 +2,15 @@
 🖥️ I'm a 3rd Year B.Sc Computer Science and Mathematics with a specialization in Cyber Security at Ariel University
 
 ### my skills: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=25&color=330033&vCenter=true&width=700&height=20&lines=python;C;Cpp;java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=25&color=330033&vCenter=true&width=700&height=25&lines=python;C;Cpp;java)](https://git.io/typing-svg)
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
+</div>
+
 
 ### GitHub Stats
 
