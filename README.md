@@ -19,7 +19,7 @@
     <tr>
       <!-- Github status -->
       <td>
-        <img height="259" src="https://github-readme-stats.vercel.app/api?username=ofekats&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&&theme=buefy" alt="ofekats's Github stats" />
+        <img height="259" src="https://github-readme-stats.vercel.app/api?username=ofekats&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&&theme=buefy" style="width: 100%; height: 100%;" alt="ofekats's Github stats" />
       </td>
       <!-- Github use of programming language -->
       <td>
