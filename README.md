@@ -11,6 +11,8 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
 </div>
 
+### My projects
+<a href ="https://github.com/ofekats?tab=repositories" target="_blank">To all my projects</a>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
