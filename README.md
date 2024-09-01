@@ -13,7 +13,7 @@
 
 ### My projects
 #### 🧮 Fair Allocation Algorithms
-My final project for my Computer Science degree, focused on implementing five fair allocation algorithms for the open-source library **Fairpyx** using Python.
+My final project for a Computer Science degree, focused on implementing five fair allocation algorithms for the open-source library **Fairpyx** using Python.
   The project is split into three parts:
 - **[Documentation](https://github.com/Final-Project-fairpyx/documents)**: Detailed project descriptions.
 - **[Algorithms](https://github.com/Final-Project-fairpyx/fairpyx)**: The implementations of the algorithms added to the <a href="https://github.com/ariel-research/fairpyx">Fairpyx library</a>.
