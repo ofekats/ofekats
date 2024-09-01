@@ -19,6 +19,15 @@ My final project for a Computer Science degree, focused on implementing five fai
 - **[Algorithms](https://github.com/Final-Project-fairpyx/fairpyx)**: The implementations of the algorithms added to the <a href="https://github.com/ariel-research/fairpyx">Fairpyx library</a>.
 - **[Demo Website](https://github.com/Final-Project-fairpyx/website)**: A Flask-based website for running and visualizing the algorithms. to the website: <a href="https://tome.csariel.xyz/">https://tome.csariel.xyz/<a>
 
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="25" height="25"/>    Social Network User System 
+This project involves creating a social network with various AWS components using CDK. The standout feature is the ability to upload posts via images, which are then processed using AWS Textract to extract and edit text. Additional functionalities include user management and profile picture handling.  
+Technologies:
+AWS Lambda, API Gateway, S3, SQS, DynamoDB, Amazon Textract  
+<a href="https://github.com/ofekats/Cloud_Computing_Final_Assignment?tab=readme-ov-file#demo">To the demo part</a>  
+**[To the project](https://github.com/ofekats/Cloud_Computing_Final_Assignment)**
+
+
+
 <a href ="https://github.com/ofekats?tab=repositories" >To all my projects</a>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
