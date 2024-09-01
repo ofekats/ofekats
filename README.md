@@ -1,5 +1,5 @@
 ## Hi there, I'm Ofek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20" />
-🖥️ I'm a 3rd Year B.Sc Computer Science and Mathematics with a specialization in Cyber Security at Ariel University
+🖥️ I'm a B.Sc. graduate in Computer Science and Mathematics with a specialization in Cyber Security from Ariel University.
 
 ### <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> my skills: 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=25&color=330033&vCenter=true&width=700&height=25&lines=python;C;Cpp;java)](https://git.io/typing-svg)
