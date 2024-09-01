@@ -12,6 +12,13 @@
 </div>
 
 ### My projects
+#### 🧮 Fair Allocation Algorithms
+My final project for my Computer Science degree, focused on implementing five fair allocation algorithms for the open-source library **Fairpyx** using Python.
+  The project is split into three parts:
+- **[Documentation](https://github.com/Final-Project-fairpyx/documents)**: Detailed project descriptions.
+- **[Algorithms](https://github.com/Final-Project-fairpyx/fairpyx)**: The implementations of the algorithms added to the <a href="https://github.com/ariel-research/fairpyx">Fairpyx library</a>.
+- **[Demo Website](https://github.com/Final-Project-fairpyx/website)**: A Flask-based website for running and visualizing the algorithms. to the website: <a href="https://tome.csariel.xyz/">https://tome.csariel.xyz/<a>
+
 <a href ="https://github.com/ofekats?tab=repositories" >To all my projects</a>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
