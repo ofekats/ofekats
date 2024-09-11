@@ -26,7 +26,13 @@ AWS Lambda, API Gateway, S3, SQS, DynamoDB, Amazon Textract
 * <a href="https://github.com/ofekats/Cloud_Computing_Final_Assignment?tab=readme-ov-file#demo">To the demo part</a>  
 * **[To the project](https://github.com/ofekats/Cloud_Computing_Final_Assignment)**
 
-
+#### 🕸️ Bayesian Networks Algorithms
+This project focused on implementing two key Bayesian network algorithms using Java: 
+1. Bayes Ball
+2. Variable Elimination.
+  
+These algorithms are essential for determining conditional independence and performing probabilistic inference efficiently. The project provides a straightforward approach to compiling and running the algorithms via a command-line interface.
+* **[To the project](https://github.com/ofekats/Bayesian_Networks)**
 
 <a href ="https://github.com/ofekats?tab=repositories" >To all my projects</a>
 
