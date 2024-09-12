@@ -13,26 +13,69 @@
 
 ### My projects
 #### 🧮 Fair Allocation Algorithms
-My final project for a Computer Science degree, focused on implementing five fair allocation algorithms for the open-source library **Fairpyx** using Python.
-  The project is split into three parts:
-- **[Documentation](https://github.com/Final-Project-fairpyx/documents)**: Detailed project descriptions.
-- **[Algorithms](https://github.com/Final-Project-fairpyx/fairpyx)**: The implementations of the algorithms added to the <a href="https://github.com/ariel-research/fairpyx">Fairpyx library</a>.
-- **[Demo Website](https://github.com/Final-Project-fairpyx/website)**: A Flask-based website for running and visualizing the algorithms. to the website: <a href="https://tome.csariel.xyz/">https://tome.csariel.xyz/<a>
 
-#### <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="25" height="25"/>    Social Network User System 
-This project involves creating a social network with various AWS components using CDK. The standout feature is the ability to upload posts via images, which are then processed using AWS Textract to extract and edit text. Additional functionalities include user management and profile picture handling.  
-Technologies:
-AWS Lambda, API Gateway, S3, SQS, DynamoDB, Amazon Textract  
-* <a href="https://github.com/ofekats/Cloud_Computing_Final_Assignment?tab=readme-ov-file#demo">To the demo part</a>  
-* **[To the project](https://github.com/ofekats/Cloud_Computing_Final_Assignment)**
+<details>
+  <summary>My final project for a Computer Science degree, focused on implementing five fair allocation algorithms for the open-source library <strong>Fairpyx</strong> using Python.</summary>
+  
+  The project is split into three parts:
+  
+  - **[Documentation](https://github.com/Final-Project-fairpyx/documents)**: Detailed project descriptions.
+  - **[Algorithms](https://github.com/Final-Project-fairpyx/fairpyx)**: The implementations of the algorithms added to the <a href="https://github.com/ariel-research/fairpyx">Fairpyx library</a>.
+  - **[Demo Website](https://github.com/Final-Project-fairpyx/website)**: A Flask-based website for running and visualizing the algorithms. Check out the website here: <a href="https://tome.csariel.xyz/">https://tome.csariel.xyz/</a>
+  
+</details>
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="25" height="25"/> Social Network User System 
+
+<details>
+  <summary>This project involves creating a social network with various AWS components using CDK.</summary>
+  
+  The standout feature is the ability to upload posts via images, which are then processed using AWS Textract to extract and edit text. Additional functionalities include user management and profile picture handling.
+  
+  **Technologies:**
+  AWS Lambda, API Gateway, S3, SQS, DynamoDB, Amazon Textract.
+  
+  - <a href="https://github.com/ofekats/Cloud_Computing_Final_Assignment?tab=readme-ov-file#demo">To the demo part</a>
+  - **[To the project](https://github.com/ofekats/Cloud_Computing_Final_Assignment)**
+  
+</details>
+
 
 #### 🕸️ Bayesian Networks Algorithms
-This project focused on implementing two key Bayesian network algorithms using Java: 
+<details>
+<summary> This project focused on implementing two key Bayesian network algorithms using Java. </summary>
+  
 1. Bayes Ball
 2. Variable Elimination.
   
 These algorithms are essential for determining conditional independence and performing probabilistic inference efficiently. The project provides a straightforward approach to compiling and running the algorithms via a command-line interface.
 * **[To the project](https://github.com/ofekats/Bayesian_Networks)**
+</details>
+
+#### ![48](https://github.com/user-attachments/assets/de6b5a66-cccc-4141-bfc6-588ac47fa8e7) CopyCache Chrome Extension
+<details>
+  <summary>This project is a Chrome extension that monitors clipboard activity and displays notifications for copied text. </summary>
+  Implemented features to manage clipboard history, handle permissions, and interact with the active tab.
+
+**Skills Used**:
+- JavaScript and Chrome Extensions API
+- Permissions Management
+- Clipboard Monitoring
+- Notifications
+
+* **[To the project](https://github.com/ofekats/CopyCache)**
+</details>
+
+#### <img src="https://github.com/user-attachments/assets/16346040-3fd7-490a-81ed-704724e492dc" width="25" height="25" alt="Image Description"> Shell
+
+<details>
+<summary>This project is a simple shell implementation written in C.</summary>
+
+This project designed to provide fundamental shell functionalities. It supports command execution, variable management, input/output redirection, and piping between commands. Additionally, it features conditional execution with `if`, `then`, `else`, and `fi` statements. The shell also includes command history and prompt customization. Ideal for learning and experimentation, this shell demonstrates essential concepts in command-line interfaces and process control.
+* **[To the project](https://github.com/ofekats/shell)**
+</details>
+
+
 
 <a href ="https://github.com/ofekats?tab=repositories" >To all my projects</a>
 
