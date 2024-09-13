@@ -40,6 +40,14 @@
   
 </details>
 
+#### <img src="https://github.com/user-attachments/assets/e0e2627b-556b-40b7-8d87-713044301449" alt="Wordle_Logo" width="20" height="20"/> Wordle
+<details> 
+  <summary> A fun project where I recreated my favorite game, Wordle, based on the popular <a href="https://www.nytimes.com/games/wordle/index.html">NY Times game</a>. </summary>
+This game allows players to guess a 5-letter word with feedback provided after each guess.
+
+<a href="https://ofekats.github.io/wordle/">Play the game here!</a>
+* **[To the project](https://github.com/ofekats/wordle)**
+</details>
 
 #### 🕸️ Bayesian Networks Algorithms
 <details>
