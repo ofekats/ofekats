@@ -36,6 +36,8 @@
   AWS Lambda, API Gateway, S3, SQS, DynamoDB, Amazon Textract.
   
   - <a href="https://github.com/ofekats/Cloud_Computing_Final_Assignment#demo">To the demo part</a>
+  <a href="/ofekats/Cloud_Computing_Final_Assignment#demo">To the demo part</a>
+
   - **[To the project](https://github.com/ofekats/Cloud_Computing_Final_Assignment)**
   
 </details>
