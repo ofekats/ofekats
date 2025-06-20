@@ -48,6 +48,16 @@ This game allows players to guess a 5-letter word with feedback provided after e
 * **[To the project](https://github.com/ofekats/wordle)**
 </details>
 
+#### <img width="25" alt="chef-icon" src="https://github.com/user-attachments/assets/4e33fb2b-5b0b-4a82-9a9d-fde5a4778484" /> Chef-AI : AI-Powered Recipe Generator
+
+<details> 
+  <summary> A web app that helps users generate creative recipes with AI based on the ingredients they already have. </summary>
+This project uses the Spoonacular API to validate ingredients, and then generates recipe suggestions using AI models- Cohere or Mistral (via Hugging Face). The app is fully deployed with Netlify.
+
+<a href="https://chefaiok.netlify.app/">Try it yourself!</a>
+* **[To the project](https://github.com/ofekats/chefAI)**
+</details>
+
 #### 🕸️ Bayesian Networks Algorithms
 <details>
 <summary> This project focused on implementing two key Bayesian network algorithms using Java. </summary>
@@ -110,26 +120,3 @@ This project designed to provide fundamental shell functionalities. It supports 
     </tr>
   </table>
 </div>
-
-
-
-
-
-
-
-
-
-<!--
-**ofekats/ofekats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
